@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CreatorHub AI Content Workspace",
+  "description": "A world-class AI-powered social media workspace for creating, managing, and analyzing content across all major platforms with integrated brand voice and asset management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
