@@ -50,3 +50,4 @@ Claims to verify. All are paraphrases of common public descriptions, not yet sou
 
 ## Dispatch log
 - 2026-10-11: Wave 1 dispatched (claim-auditor, money-mapper, timeline-analyst, harm-accountability-analyst).
+- 2026-10-11: Wave 1 complete. Wave 2 (pattern-analyst) complete; it lacked a Bash tool, so the coordinator appended its PA- rows (agent definition fixed). Wave 3 (countercase-analyst, source-auditor) complete; CC- rows appended by the coordinator after the audit to avoid a write race. Report written.
