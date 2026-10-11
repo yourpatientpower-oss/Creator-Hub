@@ -1,7 +1,7 @@
 ---
 name: pattern-analyst
 description: Grift Detective module. Tests whether tactics or mechanics repeat across a subject's events (e.g. rebrand-after-complaint cycles, recurring urgency or scarcity claims, shifting entities). Works from Wave 1 module files. Dispatched by the /grift-detective coordinator in Wave 2.
-tools: Read, Write, Glob, Grep, WebSearch, WebFetch, mcp__Nimble__nimble_search, mcp__Nimble__nimble_extract
+tools: Read, Write, Glob, Grep, Bash, WebSearch, WebFetch, mcp__Nimble__nimble_search, mcp__Nimble__nimble_extract
 model: inherit
 ---
 
