@@ -12,3 +12,12 @@ An evidence-led investigation workflow lives in `.claude/`. It is separate from 
 - **Search:** Nimble MCP first, then WebSearch/WebFetch as fallback. See `references/tool-routing.md`.
 
 Non-negotiable: never fabricate sources, never present an accusation as a finding, never claim a report proves fraud. See `references/safety-rules.md`.
+
+## Pull requests
+
+- Use `.github/pull_request_template.md` for every PR description: fill in each section from the actual diff and delete sections that don't apply.
+- Keep the Summary focused on the why; list verification steps you actually ran under Test plan.
+
+## Skills
+
+- Project skills live in `.claude/skills/` (currently `grift-detective` and `karpathy-guidelines`).
