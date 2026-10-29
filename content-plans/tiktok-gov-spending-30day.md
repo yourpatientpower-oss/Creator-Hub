@@ -85,6 +85,64 @@ Topics above are slots, not claims. Do not script a number until you have opened
 - **Tuesday:** screen-record source pages, assemble edits, burn captions
 - **Daily 15 min:** reply to comments within the first hour of posting; note questions for "You Asked"
 
+## Step-by-step process (per video)
+
+1. **Pick the topic.** Choose from the calendar or a top comment. Write the one-sentence claim you want to make.
+2. **Pull the source.** Open the primary document. Record the URL, fiscal year, figure type and the exact figure in the source tracker.
+3. **Cross-check.** Confirm the figure in a second place (for example USAspending vs. the agency's budget document). If the two disagree, work out why before scripting.
+4. **Script.** Write 110-150 words using the video format template. Mark each sentence as fact (with source) or opinion.
+5. **Voiceover.** Record in a quiet room, or generate an AI voice. Label AI-generated content in TikTok's settings if you use one.
+6. **Capture visuals.** Screen-record the source page, scrolling to the exact figure. Zoom or highlight the number.
+7. **Edit.** Assemble VO, screen recordings, source cards and burned-in captions. Check every on-screen number against the tracker.
+8. **Fact-check pass.** Read the finished video against the tracker with sound off, then with sound on.
+9. **Publish.** Write the caption, add hashtags, pin the sources comment and schedule or post.
+10. **Monitor and learn.** Reply to comments in the first hour, log metrics on Sunday, and issue a correction if anything is wrong.
+
+## Tools
+
+Pick one tool per job. Items marked **(connected here)** are available in this Claude session; the others are outside tools you'd use yourself.
+
+### Research and sourcing (free)
+| Job | Tool |
+|---|---|
+| Federal awards, grants, contracts | [USAspending.gov](https://www.usaspending.gov) (search, award pages, API) |
+| Budget, debt, outlays, interest | [Treasury Fiscal Data](https://fiscaldata.treasury.gov) |
+| Projections and analysis | [CBO](https://www.cbo.gov) |
+| Audits and improper payments | [GAO](https://www.gao.gov), [Oversight.gov](https://www.oversight.gov) for IG reports |
+| Bills and appropriations text | [Congress.gov](https://www.congress.gov) |
+| Contract opportunities and vendors | [SAM.gov](https://sam.gov) |
+| Web search, page extraction, monitoring new reports | Nimble search/extract **(connected here)**; Claude can run these for you |
+
+### Planning and tracking
+| Job | Tool |
+|---|---|
+| Calendar and source tracker | Notion or Google Sheets / Drive **(Notion and Google Drive connected here)** |
+| Script drafting and fact-check help | Claude, with the tracker pasted in |
+| Comment and idea backlog | Notes app or a Notion database |
+
+### Video creation (faceless)
+| Job | Tool |
+|---|---|
+| Screen recording of source pages | OBS Studio (free), QuickTime (Mac), Xbox Game Bar (Windows), or Loom |
+| Voiceover recording | Phone voice memo or a USB mic with Audacity (free) |
+| AI voiceover (optional) | ElevenLabs or TikTok's built-in text-to-speech; label as AI-generated |
+| Editing, captions, animated numbers | CapCut (free, built for TikTok), or Descript for edit-by-transcript |
+| Source cards, thumbnails, charts | Canva **(its connector failed to connect in this session)**, or Flourish / Datawrapper for charts |
+| Clipping longer videos into shorts | OpusClip **(connected here; MCP access needs its Pro/Max plan)**, only useful if you also publish long-form |
+
+### Publishing and analytics
+| Job | Tool |
+|---|---|
+| Posting and scheduling | TikTok app / TikTok Studio on desktop (free scheduling), or Postiz for multi-platform scheduling |
+| Analytics | TikTok Analytics (views, watch time, saves, follows) |
+| Weekly review | Sunday metrics table above, logged in your tracker |
+
+### Suggested minimum stack
+OBS + CapCut + USAspending + Treasury Fiscal Data + a Google Sheet for the tracker + TikTok Studio. All free. Add Canva or Descript if the editing is eating your time.
+
+### Weekly time budget (about 6-8 hours)
+Sunday 1.5h (topics and sources) · Monday 2h (scripts and VO) · Tuesday 2.5h (visuals and edits) · Daily 15 min (comments).
+
 ## Engagement tactics
 
 - End every video with one specific question tied to the topic (not "thoughts?")
