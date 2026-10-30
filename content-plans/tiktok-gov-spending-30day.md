@@ -42,41 +42,48 @@
 - 40-55s: takeaway + "Source is pinned. What should I trace next?"
 - Caption: 1 sentence + sources + 3-5 hashtags. Pin a comment with links.
 
-## Week-by-week calendar
+## Week-by-week calendar: "Who pays for the plane?"
 
-### Week 1 (Nov 2-8): Establish the method
-| Day | Series | Topic (verify figures before scripting) | Pillar |
-|---|---|---|---|
-| Mon | Intro | "I show the source for every number. Here's how to check me" (screen-record USAspending search) | B |
-| Tue | Scale Check | Federal budget vs. most recent fiscal year outlays: broken into per-person and per-day | A |
-| Thu | Follow the Dollar | Pick one mid-size contract from USAspending, trace prime to sub | B |
-| Sat | You Asked | Ask audience what to trace; answer the "obligated vs. spent" confusion | D |
+The 16 posts follow one arc on who reimburses the Treasury for the President's political travel. Evidence and gaps are in `fec-travel-findings.md`; each post below depends on that file and on the rules in "Sourcing rules". Note: Tue 2026-11-03 is Election Day. Hold that slot to the method/explainer posts, make no claim about the election, and check TikTok's civic-integrity policy before scheduling.
 
-### Week 2 (Nov 9-15): Where it goes
+### Week 1 (Nov 2-8): The rule
 | Day | Series | Topic | Pillar |
 |---|---|---|---|
-| Mon | Scale Check | Biggest budget categories (mandatory vs. discretionary) explained in 45s | A |
-| Tue | Audit Says | Recent GAO finding on improper payments: quote the figure and fiscal year | C |
-| Thu | Follow the Dollar | Viewer-requested award from week 1 comments | B |
-| Sat | Myth vs. number | One common claim from comments, tested against Treasury data | D |
+| Mon | Intro | "I show the source for every number." Screen-record how to search FEC disbursements | B |
+| Tue | Scale Check | What 11 CFR 100.93 says: who pays the government when a trip is political (cite the CFR text and the FEC summary, not a paraphrase) | A |
+| Thu | Myth vs. number | "The campaign pays full cost": the rule sets a fare or pro rata share, not the full cost of the aircraft. Quote the CFR | D |
+| Sat | You Asked | Ask which trip or committee to trace; explain the difference between a candidate committee and a party committee | D |
 
-### Week 3 (Nov 16-22): Receipts
+### Week 2 (Nov 9-15): The 2018 gap
 | Day | Series | Topic | Pillar |
 |---|---|---|---|
-| Mon | Follow the Dollar | A grant program: who applied, who got it, how much | B |
-| Tue | Scale Check | Interest on the debt vs. another major line item | A |
-| Thu | Audit Says | An IG report on a contract-management finding, with agency response | C |
-| Sat | You Asked | Top-3 comment questions answered in one video | D |
+| Mon | Scale Check | Quartz's 2018 estimate: $17M at $142,380 an hour. Label it an estimate and show the source | A |
+| Tue | Follow the Dollar | Eight campaign payments to the Treasury, 2018-03-12 to 04-13, total $112,647.90 in the FEC data (Quartz printed $112,667.90; say so) | B |
+| Thu | Follow the Dollar | The part the estimate leaves out: RNC payments to "US Treasury" and the White House Military Office for "travel expenses", including $154,045.97 on 2018-08-22. Say what the filing does and does not say | B |
+| Sat | You Asked | Why a payment total and a cost estimate cannot be compared trip by trip. Do not state a percentage | D |
 
-### Week 4 (Nov 23-29): Community + recap
+### Week 3 (Nov 16-22): The 2026 pace
 | Day | Series | Topic | Pillar |
 |---|---|---|---|
-| Mon | Follow the Dollar | Holiday-week angle: a year-end spending pattern (verify it exists in data first) | B |
-| Tue | Audit Says | Follow-up: what happened after an earlier audit's recommendations | C |
-| Thu | Myth vs. number | Best-performing myth topic from weeks 1-3, deeper | D |
-| Sat | Recap | "Everything I sourced this month" + poll for next month's topics | A |
+| Mon | Audit Says | NPR's 2026-07-22 report: more campaign trips than the same point in 2018, no counts given. Quote it exactly and say there is no count | C |
+| Tue | Scale Check | What a flight hour costs the government and where that figure comes from (find a current primary source first; do not reuse the 2018 rate) | A |
+| Thu | Follow the Dollar | The one 2026 row found: RNC to White House Military Office, "travel expenses", $4,869.72, 2026-07-03. What it is, and what the filing does not say | B |
+| Sat | Myth vs. number | "No reimbursements in 2026 FEC data": only say what was searched and which committees; this is not proof nothing was paid | D |
 
-Topics above are slots, not claims. Do not script a number until you have opened the source and recorded the URL, fiscal year, and figure type.
+### Week 4 (Nov 23-29): Follow the receipt
+| Day | Series | Topic | Pillar |
+|---|---|---|---|
+| Mon | Follow the Dollar | Walk through one filing image from the table, line to PDF, so viewers can repeat it | B |
+| Tue | Audit Says | If a GAO, IG or FEC finding on political-travel reimbursement exists, quote it with date; otherwise swap for an explainer on how reimbursement is reported | C |
+| Thu | You Asked | Answer the top three comments with sourced numbers; correct anything from earlier posts | D |
+| Sat | Recap | Every source used, the table, and what is still unverified; poll for next month | A |
+
+### Held back until a dataset exists
+- **Cross-president comparison** ("most aggressive president ever"): no independent dataset found; October rally counts conflict (NBC 8 vs. AMAC 23). Do not script this unless a documented dataset is found.
+- **"Campaign paid $1.8M in the first two years":** low-quality source, no original found. Do not use.
+- **Any 2026 reimbursement rate or paying committee beyond the single RNC row:** not verified.
+
+Topics above are slots, not claims (the arc posts also depend on `fec-travel-findings.md`). Do not script a number until you have opened the source and recorded the URL, fiscal year, and figure type.
 
 ## Production workflow (batching)
 
