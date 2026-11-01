@@ -101,6 +101,28 @@ Dorothea died in 1878, the year Ernest was born. Whether she died in or after ch
 
 ---
 
+## The adoption: Ruby's son, born in Montezuma, Iowa
+
+Family account (from the researcher): Ruby gave birth to a son, the researcher's father, **believed to have been born in Montezuma, Poweshiek County, Iowa**. He was adopted into the **Stone family**, and the adoption reportedly went **through a church or church agency**.
+
+How this fits the record trail:
+- Montezuma is about 25 miles north of University Park, where Ruby grew up. It is the Poweshiek County seat and had the county hospital and courthouse. A birth there fits a young woman from the Oskaloosa area.
+- Church-run child-placing agencies were common in Iowa then. In the 1920s the state licensed Lutheran agencies such as the Lutheran Home Finding Society (Fort Dodge), the Iowa Evangelical Lutheran Orphanage (Waverly) and the Iowa Lutheran Children's Home (Stanton), plus Catholic and other agencies. The agency's denomination may echo the Adolphs or Stone family's church.
+
+### Best route: the original birth certificate (Iowa law since 2022)
+- Iowa Code § 144.24A (HF 855, effective 1 Jan 2022) lets an **adult adoptee born in Iowa** get a **non-certified copy of their original, pre-adoption birth certificate** from Iowa HHS Vital Records. The fee is $15 and processing takes about 6+ weeks.
+- **If the adoptee has died**, his spouse or an adult relative within the second degree (this includes his **children**) may apply, with a certified copy of his death certificate.
+- Birthparents could ask for their name to be **redacted**. **Ruby died in 1998, decades before that option existed, so she could not have filed one.** A birth father who was alive in 2021–22 could have.
+- The original certificate should name **Ruby as mother**. It may also name the **birth father**, and it gives the hospital or address.
+
+### Other records
+- **The agency's case file** (often names both birth parents and describes the circumstances): ask Lutheran Services in Iowa or Catholic Charities (Diocese of Des Moines or Davenport) about post-adoption search. Otherwise, find out which agency handled the placement. The adoptive family's church is a good clue.
+- **Court adoption file**, Poweshiek County District Court (or the county where the Stones lived): sealed; opening it requires petitioning the court.
+- **Iowa Mutual Consent Voluntary Adoption Registry** (Iowa HHS): matches adoptees and birth relatives who both register.
+- **DNA:** a test by the researcher, or ideally the adoptee if living, will match Adolphs/Ballhagen descendants if the link is biological. It could also identify the birth father's family.
+
+---
+
 ## Next steps (most promising first)
 
 1. **Ruby's Social Security application (SS-5).** Request it from the SSA through a FOIA request for a deceased person. It shows her parents, birthplace and the address and employer at the time she applied, often with her married name.
