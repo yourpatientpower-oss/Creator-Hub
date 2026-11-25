@@ -1,6 +1,6 @@
 # Money Mapper: GD-20261125-iowa-army-ammunition-plant
 
-Module owner: money-mapper. Claims covered: C16, C17, C18, plus the coordinator's mid-task request on 2026 operator status and lead-azide awards (C26). Written 2026-11-25. Sources are cited by ledger ID (S40-S85 are this module's rows).
+Module owner: money-mapper. Claims covered: C16, C17, C18, plus the coordinator's mid-task request on 2026 operator status and lead-azide awards (C26). Written 2026-11-25. Sources are cited by ledger ID (this module's rows are S40-S69 and S600-S615; its S600-S615 rows collided with another module's IDs and were re-issued as S600-S615).
 
 Method note: the obligation figures come from live USAspending API queries run 2026-11-25 (USAspending reported data last updated 2026-11-24, S41). Registry and announcement facts come from Nimble Search/Extract results and from documents downloaded directly. Several hosts could not be reached from this session: aviationweek.com, dayzim.com via WebFetch, the Delaware, Iowa and Tennessee SOS portals, web.archive.org, justice.gov, and authenticated CourtListener and SAM.gov APIs. Where that matters it is stated below. No Wayback copies were made.
 
@@ -65,7 +65,7 @@ Taken together, the sources agree that the JV was Mason & Hanger (later a D&Z un
 
 **F9. USAspending's "parent" field is inconsistent.** The parent recorded on individual AO awards switches between "AMERICAN ORDNANCE LLC" (LM5HGA7J4R45), "THE MASON & HANGER GROUP INC." (VV2HSJHZ5353) and "THE DAY & ZIMMERMANN GROUP, INC" (JV1NFDGGB4S4). For example, the FY2016 orders under W52P1J16D0050 show Mason & Hanger, W15QKN15C0044 (2015) shows D&Z Group, and W15QKN24F0442 (2024) shows AO (S40, S42). *Documented.* **Inference:** this probably reflects how the owner hierarchy was entered in SAM at each action, not a series of ownership changes. Mason & Hanger is a D&Z business (S49), so all three labels point to the D&Z group. This has not been confirmed with SAM ownership history.
 
-**F10. No General Dynamics ownership today.** No source after 2007 shows GD holding equity in AO. GD-OTS is a **competitor** on some of the same orders. For example, the 155mm M795 IDIQ W519TC23D0014 has a companion order W519TC-23-F-0108 to GD-OTS, which "will compete for each order" (S85, secondary; not verified against the DoD announcement). *Documented: GD's past JV role (S47, S49). Unknown: any residual GD interest, which is unlikely given S49 but not ruled out with a registry filing.*
+**F10. No General Dynamics ownership today.** No source after 2007 shows GD holding equity in AO. GD-OTS is a **competitor** on some of the same orders. For example, the 155mm M795 IDIQ W519TC23D0014 has a companion order W519TC-23-F-0108 to GD-OTS, which "will compete for each order" (S615, secondary; not verified against the DoD announcement). *Documented: GD's past JV role (S47, S49). Unknown: any residual GD interest, which is unlikely given S49 but not ruled out with a registry filing.*
 
 **F11. Milan.** AO also operated Milan AAP (Tennessee) under the same facility contract (S43, S48). It is shown as operating Milan "storage facilities" (S51). Milan's obligations fell sharply after FY2013 (table below). *Documented.*
 
@@ -170,16 +170,16 @@ Their absence fits DoD's delayed public FPDS reporting; this is an inference, no
 - Consent Agreement and Final Order, Docket RCRA-07-2024-0092, filed 2024-09-27. The docket shows "Payment Received", closed 2024-10-08.
 - EPA's release says the Army owns IAAP "while American Ordnance operates the plant".
 
-(S72, S73.) *Documented.* *Unknown:* how the $39,311 was split between the Army and AO, and whether any share was charged back to the government under the contract.
+(S602, S603.) *Documented.* *Unknown:* how the $39,311 was split between the Army and AO, and whether any share was charged back to the government under the contract.
 
-**F22. DOL OFCCP conciliation (March 2017).** AO agreed to pay $50,000 in back pay and damages to two former security officers over disability-accommodation findings, and did not admit liability (S74). *Documented (agency release).*
+**F22. DOL OFCCP conciliation (March 2017).** AO agreed to pay $50,000 in back pay and damages to two former security officers over disability-accommodation findings, and did not admit liability (S604). *Documented (agency release).*
 
-**F23. DOL Wage and Hour (2018-10-01).** AO paid $678,296 in back wages, overtime and fringe benefits to 63 employees at Milan. The findings were under the Service Contract Act and the Contract Work Hours and Safety Standards Act (S75). *Documented (agency release).*
+**F23. DOL Wage and Hour (2018-10-01).** AO paid $678,296 in back wages, overtime and fringe benefits to 63 employees at Milan. The findings were under the Service Contract Act and the Contract Work Hours and Safety Standards Act (S605). *Documented (agency release).*
 
 **F24. Litigation where AO was the claimant.**
 - **Line 3A equipment.** In 83 Fed. Cl. 559 (2008), the court issued a declaratory judgment that **AO, not the Army, owns the Line 3A manufacturing equipment at IAAP** (used for M795 projectiles). It held that the Contract Disputes Act limitations period barred the government's ownership claim, and awarded costs to AO (S47). *Documented.* Separately, the Army later funded "LINE 3A MODERNIZATION EFFORT AT THE IOWA ARMY AMMUNITION PLANT" through order W519TC23F0370 ($24,683,179) (S45). *Unknown:* who holds title to the modernized equipment. No impropriety is implied.
-- **Bid protest.** A 2007 COFC pre-award protest (AO alleged the Army disclosed AO's proprietary cost data) (S84).
-- **ASBCA appeal.** A law-firm biography reports a successful ASBCA appeal (No. 54718, 10-1 BCA 34,386) recovering $3.5M in constructive-change and delay claims (S82). *Secondary; unverified.*
+- **Bid protest.** A 2007 COFC pre-award protest (AO alleged the Army disclosed AO's proprietary cost data) (S614).
+- **ASBCA appeal.** A law-firm biography reports a successful ASBCA appeal (No. 54718, 10-1 BCA 34,386) recovering $3.5M in constructive-change and delay claims (S612). *Secondary; unverified.*
 - **Wolf Creek Railroad v. United States**, No. 23-1684 (COFC, 2024-03-26). Claims by AO's rail tenant at Milan against the government were dismissed (S48).
 
 **F25. False Claims Act and DOJ: nothing found.** Searches through Nimble, WebSearch and an anonymous CourtListener API call (which returned no data) found **no** FCA, qui tam or DOJ settlement naming AO. justice.gov could not be reached directly. *Unknown: absence in these searches is not proof of absence.* An OSHA penalty from 2006 surfaced only through a Violation Tracker search snippet; OSHA records are handled by the harm-accountability module.
@@ -210,10 +210,10 @@ Their absence fits DoD's delayed public FPDS reporting; this is an inference, no
 - **FY2026 obligations** to AO are $270.2M (S41). The FY2026 recipient ranking for Des Moines County, Iowa, places AO first by a wide margin (S44).
 - **DoD announcements** in December 2025 and September 2026 award IAAP facility work to AO (S63-S66).
 - **The subject's own statement:** D&Z said on 2026-09-21 that AO "operates the Iowa Army Ammunition Plant" (S51). *Disclosed.*
-- **Press (lead-azide coverage):** the Washington Post (2026-11-24) describes AO as "the contractor that operates and oversees the plant" (S79). *News, snippet only.*
-- **Searches** (Nimble and WebSearch, 2026-11-25) found no recompete notice, solicitation or announced successor operating contractor. The only other large new IAAP contractor is MSM Group North America, which holds a $635M Future Artillery Complex design-build-commission award announced August 2025 (S81). That is construction of a new facility, not plant operation. *Absence of evidence, not proof.*
+- **Press (lead-azide coverage):** the Washington Post (2026-11-24) describes AO as "the contractor that operates and oversees the plant" (S609). *News, snippet only.*
+- **Searches** (Nimble and WebSearch, 2026-11-25) found no recompete notice, solicitation or announced successor operating contractor. The only other large new IAAP contractor is MSM Group North America, which holds a $635M Future Artillery Complex design-build-commission award announced August 2025 (S611). That is construction of a new facility, not plant operation. *Absence of evidence, not proof.*
 
-**F28. Why the emergency permit names the Army as "owner and operator": inference only.** EPA's public notice names the emergency permittee as the "United States Department of the Army" (S78). The work is an Army decision executed by Army-coordinated explosive ordnance disposal personnel; the Secretary of the Army selected in-place detonation (S78, S77).
+**F28. Why the emergency permit names the Army as "owner and operator": inference only.** EPA's public notice names the emergency permittee as the "United States Department of the Army" (S608). The work is an Army decision executed by Army-coordinated explosive ordnance disposal personnel; the Secretary of the Army selected in-place detonation (S608, S607).
 
 **Inference:** the permittee designation likely reflects that the Army, not AO, is the party conducting this specific emergency treatment. It does not by itself indicate a change of plant operator.
 
@@ -233,16 +233,16 @@ Their absence fits DoD's delayed public FPDS reporting; this is an inference, no
 
 **F30. AO's link to lead azide.**
 - In 2009, AO received BOA order 0061 ($15,728.62) "to develop PC&H [packaging, crating and handling] procedures for lead azide at the Iowa AAP" (S45). *Documented.*
-- The Washington Post reports, from documents it reviewed, that AO asked MuniRem on **2025-09-24** for a plan to "neutralize and dispose" of 68 drums of lead azide. It also reports that AO inspected the drums every September and added stabilizing fluid, citing an Army declaration filed by DOJ (S79). *News; only the search snippet was read and the full article is likely paywalled; not independently verified.*
+- The Washington Post reports, from documents it reviewed, that AO asked MuniRem on **2025-09-24** for a plan to "neutralize and dispose" of 68 drums of lead azide. It also reports that AO inspected the drums every September and added stabilizing fluid, citing an Army declaration filed by DOJ (S609). *News; only the search snippet was read and the full article is likely paywalled; not independently verified.*
 
 **Inference:** lead-azide storage and inspection sat within AO's site-operations scope, while the 2026 remediation and neutralization money went to other contractors on urgency or USACE vehicles. Nothing here shows AO being paid specifically for the 2026 lead-azide response. AO's general site-support orders may cover related labor. *Unknown:* any lead-azide work charged to AO's existing orders under other descriptions.
 
 **F31. Demilitarization at IAAP.** No 2026 award to AO is labeled demilitarization. Related AO orders include:
 - W519TC24F0090: disassembly of M59 MICLICs, $3.14M, 2024-2025
 - W519TC23F0485: layaway/demolition phase 11, $5.74M, to 2026-09-30
-- W519TC23F0558: packaging, crating, handling and disposal of 1.78M lb of insensitive-munition explosive, $10.4M; DoD initial award $8,373,449, one bid (S70)
+- W519TC23F0558: packaging, crating, handling and disposal of 1.78M lb of insensitive-munition explosive, $10.4M; DoD initial award $8,373,449, one bid (S600)
 
-(S45, S70). *Documented.*
+(S45, S600). *Documented.*
 
 ### 2.7 Money-flow table
 
@@ -257,9 +257,9 @@ Their absence fits DoD's delayed public FPDS reporting; this is an inference, no
 | U.S. Army | AO | 155mm M795 IDIQ W519TC23D0014 | $571.21M obligated; $1,987.58M ceiling (**not funding**) | documented | S42 |
 | U.S. Army (orders labeled "UKRAINE"/FMS) | AO | M1128 and MACS orders (W15QKN23F0559, W15QKN24F0442, W15QKN25F0383) | $193.0M; $120.6M; $59.4M lifetime obligations | documented (labels); funding source by order: inferred | S42 |
 | U.S. Army | AO | DoD-announced Sept 2026 actions not yet in USAspending | $23.64M + $15.50M + $12.64M announced action amounts | documented (announcement); obligation status unknown | S63, S64, S65 |
-| AO / Army (joint respondents) | U.S. Treasury (EPA) | RCRA civil penalty, CAFO RCRA-07-2024-0092 | $39,311 total; split unknown | documented | S72, S73 |
-| AO | 63 Milan employees | Back wages (SCA/CWHSSA) | $678,296 | documented | S75 |
-| AO | 2 former security officers | OFCCP conciliation | $50,000 | documented | S74 |
+| AO / Army (joint respondents) | U.S. Treasury (EPA) | RCRA civil penalty, CAFO RCRA-07-2024-0092 | $39,311 total; split unknown | documented | S602, S603 |
+| AO | 63 Milan employees | Back wages (SCA/CWHSSA) | $678,296 | documented | S605 |
+| AO | 2 former security officers | OFCCP conciliation | $50,000 | documented | S604 |
 | U.S. Army | AO (title holder) | Line 3A equipment ownership held by AO (court judgment); later government-funded modernization | Judgment 2008; $24.68M modernization order 2023 | documented (judgment, order); title to new equipment unknown | S47, S45 |
 | Day & Zimmermann | AO | 100% equity ownership (from 2007; previously ~50% via Mason & Hanger) | Equity; price unknown | disclosed | S49, S50, S53, S62 |
 | General Dynamics Ordnance Systems | AO | ~50% JV equity, 1998-2007 | Equity; exit terms unknown | documented (S47) / disclosed (S49, S53) | S47, S49, S53 |
@@ -268,14 +268,14 @@ Their absence fits DoD's delayed public FPDS reporting; this is an inference, no
 | U.S. Army (ACC-RI / PEO AMMO) | MuniRem Environmental | Urgency sole-source, lead-azide neutralization | $30,300 | documented | S44 |
 | U.S. Army (ACC-RI / PEO AMMO) | PIKA International | Urgency sole-source, lead-azide environmental services | $770,810 obligated; $9,999,999 ceiling (not funding) | documented | S44 |
 | USACE Omaha | Cape-Weston JV1 LLC | Task order, lead-azide remediation (CPFF) | $3,061,090.18 | documented | S44 |
-| AO | MuniRem Environmental | Request for a neutralization plan, 2025-09-24 | Unknown (no payment amount reported) | documented in news only (snippet) | S79 |
-| U.S. Army | MSM Group North America | Future Artillery Complex at IAAP (design-build-commission) | $635M announced (not an AO flow) | documented (announcement) | S81 |
+| AO | MuniRem Environmental | Request for a neutralization plan, 2025-09-24 | Unknown (no payment amount reported) | documented in news only (snippet) | S609 |
+| U.S. Army | MSM Group North America | Future Artillery Complex at IAAP (design-build-commission) | $635M announced (not an AO flow) | documented (announcement) | S611 |
 
 ---
 
 ## 3. Contrary evidence
 
-- **Start of AO's operation: 1998 vs 2008.** CRS (IF12251) says IAAP "has been operated by American Ordnance LLC since 2008" (S76). The COFC (S47), D&Z (S51) and the 2008 release (S52) say 1998. **Assessment:** CRS is probably counting from the current facility contract (2008-10-02, S43). It is a scope difference, not a factual conflict. Flagged anyway.
+- **Start of AO's operation: 1998 vs 2008.** CRS (IF12251) says IAAP "has been operated by American Ordnance LLC since 2008" (S606). The COFC (S47), D&Z (S51) and the 2008 release (S52) say 1998. **Assessment:** CRS is probably counting from the current facility contract (2008-10-02, S43). It is a scope difference, not a factual conflict. Flagged anyway.
 - **Owners and dates.**
   - D&Z's acquisition of Mason & Hanger is dated 1998 (S53) or 1999 (S49, S54).
   - The 2006 press account calls the GD partner "General Dynamics Ordnance & Tactical Systems" (S55); the COFC says "General Dynamics Ordnance Systems, Inc." (S47).
@@ -301,14 +301,14 @@ Their absence fits DoD's delayed public FPDS reporting; this is an inference, no
 **Limitations:**
 - SAM.gov, the state SOS portals (DE/IA/TN), justice.gov, web.archive.org and aviationweek.com could not be reached directly. Registry facts come from third-party mirrors (S58-S62).
 - The Aviation Week articles (S56) were seen only as search titles and summaries.
-- The Washington Post (S79) and CNN (S80) were read only as search snippets.
+- The Washington Post (S609) and CNN (S610) were read only as search snippets.
 - The FY2026 figures are incomplete: three September 2026 DoD actions are missing (S63-S65).
 - USAspending's search API excludes obligations before FY2008.
 - Outlays are not reliable (F18).
 - USAspending's parent-recipient data is inconsistent (F9).
 - The facility contract text, award-fee plans and environmental clauses are not public.
 - No Wayback copies were made (host unreachable).
-- Two other modules both appended ledger rows numbered S100-S140, so those IDs are ambiguous. This module does not cite them, though several overlap with sources here (dayzim history, COFC 2008, D&Z Sept 2026 release, defense.gov 3499682, 4591558 and 4614270, GlobalSecurity). See the Notes in S47, S49, S51, S54, S63, S65 and S71.
+- Ledger ID collisions: another module had already appended S70-S89 when this module appended S70-S85. Because the ledger is append-only, this module re-issued its 16 colliding rows as S600-S615 and cites only those; its original S70-S85 rows remain and should be read as superseded. Separately, two other modules both appended rows numbered S100-S140, so those IDs are ambiguous. This module does not cite them, though several overlap with sources here (dayzim history, COFC 2008, D&Z Sept 2026 release, defense.gov 3499682, 4591558 and 4614270, GlobalSecurity). See the Notes in S47, S49, S51, S54, S63, S65 and S601.
 
 ---
 
