@@ -113,6 +113,11 @@ By November the only option left was an in-place open detonation that **EPA itse
 | C33 | "Reasonable best efforts" for scheduling and public notification | S2 pp.9, 23 | — | Documented | High |
 | C34 | RCRA shield excludes violations before 13 Nov 2026 | S2 p.4 | Standard clause | Documented | High |
 | C16-C18 | AO identity and funding | See §4 | — | Answered | Medium-high |
+| C47 | 2018 permit: long-term storage only in **Building C-13** (35,000 lb waste / 35,000 lb NEW). Treatment only in the OB area, the OD area and the 40mm unit | S1 IV.A-IV.B.4 | — | Documented | High |
+| C48 | 2018 permit's own plans (contingency, waste analysis, closure) cover "**BG-12 and C-13**" (BG-12 max 10,000 lb), but the conditions authorize C-13 only | S1 L705-716, L6666-6692, L8660-8664 | S1 gives no reason for BG-12's omission | **Internal inconsistency** | High |
+| C49 | Lead azide held in **two Earth Covered Magazines** (redacted) that the 2018 permit does not cover. It is treated in place there, outside every permitted treatment unit, at a quantity (~9,770 lb at once) far above the 100 lb/hr OD limit | S2 pp.1-3, 9; S1 VI.E.2 | Authorized only by the emergency permits under 40 CFR 270.61 (S2 II.C) | **Documented location and limit discrepancy** | High |
+| C50 | Was ECM storage lawful before 2 Apr 2026? | 40 CFR 266.202: it becomes "waste" once deteriorated, declared waste, or removed for disposal. Sep 2025 "neutralize and dispose"; Feb 2026 "safety risk"; 12 Mar notification (S1400, S1109, S121) | Stored as product, not waste, until a determination. 40 CFR 266.205 exempts magazine storage of waste munitions, but only with prior notice to EPA (S1401). No notice found | **Unresolved; legal question** | Low-medium |
+| C51 | Why it was not moved to C-13 | S2 p.1: recrystallization made it friction- and shock-sensitive | ~9,770 lb would fit C-13 by weight | Agency explanation; plausible | Medium |
 
 ## 4. Money and incentives
 
@@ -278,6 +283,7 @@ These facts point to a **stewardship failure that turned a manageable disposal p
   - S1's OB limit exceeds the stated design capacity.
   - S1 cites a stale SOP and has blank SOP placeholders.
   - S2 omits the April and June 2026 storage permits.
+  - The lead azide was held and treated in two Earth Covered Magazines that the 2018 permit does not cover. That permit authorizes long-term storage only in Building C-13 and treatment only in the OB area, the OD area and the 40mm unit. S1 itself is internally inconsistent: its plans also cover Building BG-12, but its conditions authorize C-13 only.
   - EPA expects off-site lead release, and the sampling trigger is 20× the advisory level.
   - AO: formed 1998 as a JV; D&Z-owned; still the operator to 2030; $4.72B in obligations FY2008-26; $39,311 EPA penalty; DOL and OSHA findings; no 2026 lead-azide awards.
 - **Plausible but unproven:**
@@ -292,7 +298,8 @@ These facts point to a **stewardship failure that turned a manageable disposal p
   - Census tracts as predicted deposition zones.
 - **Unknown:**
   - Whether the detonation occurred and its measured results.
-  - Pre-2026 storage permitting.
+  - Pre-2026 storage permitting: when the lead azide legally became waste (40 CFR 266.202), and whether a 40 CFR 266.205 magazine-storage notice was ever filed for the two ECMs. Qualified legal review is recommended.
+  - Whether Building BG-12 was closed or dropped before 2018.
   - Whether the Technology Assessment Report or an updated risk assessment exists.
   - AO's fee or profit.
   - The exact Delaware formation date.
@@ -301,7 +308,14 @@ These facts point to a **stewardship failure that turned a manageable disposal p
 
 1. **Post-detonation data (most time-sensitive).** Obtain the post-detonation plume estimate (within 6 h), the Final Impact Area Report (within 30 days) and sampling results, from EPA response site 17211, and compare them to the 5 and 100 µg/ft² isopleths.
 2. **Administrative record for the emergency permit** (8th Cir. No. 26-3374 / EPA R7): the 12 Aug and 4 Sep 2026 alternatives letters, EPA's approval memo, Col. Teller's declaration, and the brief on liquid replenishment. This decides the stewardship question.
-3. **EPA R7 records request:** all IAAP emergency permits since 2018; the permit modification log; Technology Assessment Reports; any updated OB/OD risk assessment.
+3. **EPA R7 records request:**
+   - all IAAP emergency permits since 2018;
+   - the permit modification log;
+   - Technology Assessment Reports;
+   - any updated OB/OD risk assessment;
+   - **any 40 CFR 266.205 waste-military-munitions storage notices for IAAP magazines**;
+   - **the Army's written waste determination for the lead azide, with its date**;
+   - **the closure certification, or other status record, for Building BG-12**.
 4. **Full CAFO RCRA-07-2024-0092:** admissions, the Army/AO penalty split and the exact limit exceeded.
 5. **FOIA to ACC-Rock Island for W52P1J-09-E-0001 and BOA W52P1J-09-G-0001:** fee, award-fee and environmental clauses.
 6. **Full ATSDR 1999 PHA, and the Delaware formation record for AO.**
