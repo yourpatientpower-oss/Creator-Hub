@@ -88,3 +88,33 @@ Claims extracted from the document (line numbers refer to `materials/epa-r7-iaap
 | C17 | (user question) When was American Ordnance LLC formed, and who owns it? | research question | user |
 | C18 | (user question) How much federal funding or contract obligations has American Ordnance LLC received? | research question | user |
 | C19 | Attachment text for the closure plan refers to "IAAAP" (typo); other typographical reference errors were corrected per the Response to Comments ("Permit Condition 0"). | minor drafting issue | S1 L9368; L~150-158 |
+
+## Second document and user clarifications (added 2026-11-25)
+The user supplied the EPA Region 7 **Emergency Hazardous Waste Management Facility Permit for Storage and Treatment of Lead Azide** (S2), effective 13 Nov 2026 to 11 Feb 2027. It is redacted. It authorizes the Army to detonate 68 drums of recrystallized lead azide in place inside Earth Covered Magazines (ECMs), because the material's sensitivity to friction and shock now makes it "highly unstable and dangerous". The user asked us to clarify two points:
+- whether the grenade unit is **40mm or 44mm** ("updated permit with mixed details");
+- the DOT classification **"Hazard Class 1.1A, UN0130"** for lead azide, which the user believes should be **UN0129**.
+
+The scope is extended to cover the emergency permit's internal consistency, its safety and public-health provisions, and its relationship to the 2018 permit.
+
+| ID | Claim (exact quote or labeled paraphrase) | Kind | Source |
+|---|---|---|---|
+| C20 | S2 p.2: under the 2018 permit, treatment is allowed in "Open Detonation area and 44MM Grenade Treatment Unit". The same page also says "Open detonation of 40mm grenades is limited to a maximum of two grenades per detonation and 50 grenades per week in the steel tank detonation chamber." | factual; internal inconsistency | S2 p.2 |
+| C21 | The 2018 permit (S1) consistently names the unit the "40MM Grenade Treatment Unit". Condition VII.E.4 sets the limit at "two grenades per detonation and 50 grenades per week". No "44mm" appears anywhere in the OCR text. | factual (cross-document check) | S1 L3397-3516 |
+| C22 | So "44MM" in S2 appears to be a typographical error for 40mm. The authoritative unit name is the 40MM Grenade Treatment Unit. | coordinator inference (to be audited) | S1, S2 |
+| C23 | S2 p.2 lists the waste as "Name: Lead Azide ... CAS Number: 13424-46-9 ... DOT Shipping Classification: Hazard Class 1.1A, UN0130". | factual | S2 p.2 |
+| C24 | Under 49 CFR 172.101, UN0130 is "Lead styphnate, wetted or Lead trinitroresorcinate, wetted", and UN0129 is "Lead azide, wetted with not less than 20 percent water ...". Both are Hazard Class 1.1A. "Lead azide (dry)" is Forbidden for transport. The UN number in S2 therefore does not match the named material: UN0129 would be expected for wetted lead azide. CAS 13424-46-9 is consistent with lead azide. | factual (primary regulation); internal inconsistency | S3; S2 |
+| C25 | Possible explanations for C24 (UNVERIFIED): a typo; drums labelled or manifested under the wrong UN number; the drums contain lead styphnate or mixed initiator compositions (the quantity detail is redacted); or the lead azide is no longer "wetted", in which case no lawful UN entry applies and it is Forbidden for transport. This bears on the stated basis that the material is unsafe to transport off-site. | hypotheses | — |
+| C26 | S2 names the permittee as "United States Department of the Army, as owner and operator". The 2018 permit names the Army (owner) and American Ordnance LLC (operator). | factual; change to verify | S2 p.1; S1 |
+| C27 | The ECM storage area holding the lead azide "is not covered for treatment, storage, or disposal of hazardous waste under the 2018 RCRA Permit". Storage was first authorized by a September 29, 2026 Emergency Storage Permit. Recrystallization occurred "during long-term storage". | factual; red flag (possible prior unpermitted storage; duration unknown) | S2 pp.1-2 |
+| C28 | EPA issued S2 "upon the EPA's finding of an imminent and substantial endangerment to human health and the environment". The Secretary of the Army selected "intentional detonation". Charges and an accelerant are placed on and near each container, and the contents are detonated "simultaneously or in rapid succession". | factual | S2 pp.1-2, 9 |
+| C29 | S2 contemplates off-site public lead exposure. It covers modeled lead deposition in 2020 Census Tracts 2, 3, 4, 5, 6, 8 and/or 9 of Des Moines County. Advisories apply to areas modeled at ≥5 µg/ft². Soil and wipe sampling within 24 h is triggered at ≥100 µg/ft², and only on properties where the Army "has been granted Rights of Entry". The airborne lead outer contour is 0.18 µg/m³. EPA imposed an Emission Factor of 1.00 over the Army's view that the release will be below 100%. | factual; safety-relevant | S2 pp.3, 9, 16, 22-24 |
+| C30 | Weather condition IV.O.3.ii reads: "When surface wind speed is less than 1 mile per hour and more than 15 miles per hour". As written, the condition can never be met; presumably "or" was intended. | drafting error | S2 p.13 |
+| C31 | Other drafting inconsistencies: | drafting | S2 pp.4, 7, 17-18, 20-21 |
+|  | - Section 13 is called "Exposure Pathway Analysis" (pp.4, 21) and "Explosives Pathway Analysis" (p.20). | | |
+|  | - "Direct Approval" appears for "Director Approval" (V.D, V.F). | | |
+|  | - "UFP-QAA Appendix D" (p.21). | | |
+|  | - Application dates are given as "September 2, 2026 (storage), and September 4, 2026 (treatment)" (p.7) and also as "October 28, 2026" (p.3). | | |
+|  | - The Contingency Plan was "submitted on September 9, 2026, and included in the Permittee's 2018 RCRA Permit (Permit Attachment III-5)" (p.8). That is a 2026 submission described as part of a 2018 permit. | | |
+| C32 | The permit is effective 13 Nov 2026 at 12:00 AM CST, but was digitally signed 13 Nov 2026 at 13:04:57, so it takes effect about 13 hours before signature. | minor anomaly | S2 pp.1, 19 |
+| C33 | Several obligations are soft: "reasonable best efforts" to schedule the treatment to minimize deposition in the census tracts, and "reasonable best efforts" to notify the potentially affected public. | characterization | S2 pp.9, 23 |
+| C34 | Compliance with S2 is a RCRA shield except for "violations of RCRA that occurred prior to the effective date of this Emergency Permit". | factual | S2 p.4 |
