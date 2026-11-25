@@ -167,6 +167,13 @@ By November the only option left was an in-place open detonation that **EPA itse
 - Production-contract margins are unknown.
 - GAO (1997) reported that the Army indemnifies ammunition-plant operators for environmental liability and pays for cleanups itself (S1105). Current contract terms are not public.
 
+**The lead-azide contracting trail (C52-C56):**
+- 2025-09-09: SAM.gov notice W519TC-25-R-IA31 announced an intended **sole-source task order to AO** for "Lead Azide Neutralization", under the IAAP ordering agreement, "for subcontracting purposes only" (S1500).
+- No such AO order appears in USAspending (S1504).
+- 2026-03-26: the Army instead awarded **W519TC26C0011 to MuniRem**: $30,300, not competed, urgency (FAR 6.302-2), period of performance to 2026-05-27 (S1501).
+- No termination appears in USAspending. The May drop (Secretary's decision 2026-05-08; treatment dropped 2026-05-14) is documented only in reporting (S1108, S1109).
+- A 2010 JMC survey (W52P1J10R0232) sought serviceability screening and repackaging of lead azide in water/ethanol drums of 100-150 lb. Its location is not stated, and no link to IAAP is established (S1505).
+
 **Not AO:**
 - The 2026 lead-azide treatment awards went to MuniRem ($30,300), PIKA ($770,810; ceiling ~$10M not counted) and Cape-Weston ($3.06M): $3.86M in total (S44).
 
